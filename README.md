@@ -1,5 +1,5 @@
 # Bipul Gautam
-
+### Note: The updated cleaned up code lies in 'UpdatedBankApplicationSpringDataJPA_DSLGrammar_Validation_Exceptions.zip'
 # Bank Application
 
 Bank Application is a simple Java Spring Boot application that simulates basic banking operations.
